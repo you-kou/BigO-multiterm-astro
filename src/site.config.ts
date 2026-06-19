@@ -2,16 +2,16 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://multiterm.stelclementine.com',
+  site: 'https://bigo.youkou.cc.cd',
   // The name of your site, used in the title and for SEO.
-  title: 'MultiTerm',
+  title: 'BigO',
   // The description of your site, used for SEO and RSS feed.
   description:
-    'A coder-ready Astro blog theme with 59 of your favorite color schemes to choose from',
+    '在这里，我们死磕时间与空间复杂度。探寻算法的最优解，重学那些被忽略的计算机底层常识。',
   // The author of the site, used in the footer, SEO, and RSS feed.
-  author: 'Katy Kookaburra',
+  author: '五五开',
   // Keywords for SEO, used in the meta tags.
-  tags: ['Astro', 'Terminal', 'Theme', 'MultiTerm', 'stelcodes'],
+  tags: ['BigO', '数据结构', '算法', '计算机科学', 'C++'],
   // Path to the image used for generating social media previews.
   // Needs to be a square JPEG file due to limitations of the social card generator.
   // Try https://squoosh.app/ to easily convert images to JPEG.
@@ -29,21 +29,16 @@ const config: SiteConfig = {
   // The navigation links to display in the header.
   navLinks: [
     {
-      name: 'Home',
+      name: '首页',
       url: '/',
     },
     {
-      name: 'About',
+      name: '关于',
       url: '/about',
     },
     {
-      name: 'Archive',
+      name: '归档',
       url: '/posts',
-    },
-    {
-      name: 'GitHub',
-      url: 'https://github.com/stelcodes/multiterm-astro',
-      external: true,
     },
   ],
   // The theming configuration for the site.
