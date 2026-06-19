@@ -5,4 +5,4 @@ avatarImage:
 githubCalendar: 'stelcodes'
 ---
 
-Welcome to the example site. This site is meant to show off my custom Astro theme/template **MultiTerm** which creates a coder-ready blog complete with an interactive theme changer, RSS, sitemap, tagging, and markdown extensions.
+这是一个专注于算法复杂度、数据结构与底层原理的技术空间。摒弃繁杂表象，此处只留存对计算逻辑的纯粹推演与对最优运行时的执着追求。每一行代码皆是逻辑与熵值的博弈，每一次迭代皆旨在跨越性能的壁垒。这里记录着探索技术本质的轨迹，愿与同道者在此驻足，一同向着那“最理想的复杂度”无限逼近。
