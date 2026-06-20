@@ -4,4 +4,4 @@ avatarImage:
   alt: 'My avatar'
 ---
 
-Thanks for reading my blog post! Feel free to check out my other posts or contact me via the social links in the footer.
+代码即逻辑，运行即真理。这里记录着通往最优解的每一次探索，感谢每一位同道者的驻足。愿你在比特的世界里，不断逼近那理想的复杂度。
