@@ -2,7 +2,7 @@
 title: '下一个更大元素 I'
 published: 2017-02-12
 draft: false
-tags: ['单调栈', '哈希表']
+tags: ['算法题', '单调栈', '哈希表']
 toc: true
 coverImage:
   src: './Next-Greater-Element-I.png'
