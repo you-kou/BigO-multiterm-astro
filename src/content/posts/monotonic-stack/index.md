@@ -2,7 +2,7 @@
 title: '单调栈'
 published: 1957-06
 draft: false
-tags: ['数据结构', '栈']
+tags: ['数据结构', '栈', '单调栈']
 toc: true
 coverImage:
   src: './monotonic-stack-in-one-stupid-picture.webp'

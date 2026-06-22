@@ -10,6 +10,7 @@ const splitPath: string[] = Astro.url.pathname
   .split('/')
   .filter(Boolean) // Remove empty parts
   .map((part) => decodeURIComponent(part)) // For Unicode chars kept by github-slugger
+  .map(part => part === 'posts' ? '文章' : part) // 把路由片段posts替换为中文「文章」
 
 const pieces = titlePieces ?? splitPath
 
