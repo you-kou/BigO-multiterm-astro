@@ -135,7 +135,7 @@ if (postData.tags && postData.tags.length > 0) {
       </section>
     ) : prev || next ? (
       <section>
-        <DividerText text="More Posts" />
+        <DividerText text="更多文章" />
         {prev && <PostPreview post={prev} />}
         {next && <PostPreview post={next} />}
       </section>
@@ -144,7 +144,7 @@ if (postData.tags && postData.tags.length > 0) {
   {
     siteConfig.giscus && (
       <section>
-        <DividerText text="Comments" />
+        <DividerText text="评论" />
         <GiscusLoader />
       </section>
     )
