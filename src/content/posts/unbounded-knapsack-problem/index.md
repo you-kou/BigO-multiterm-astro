@@ -1,7 +1,7 @@
 ---
 title: '完全背包问题'
 published: 1975-01-01
-draft: false
+draft: true
 tags: ['动态规划', '完全背包问题']
 toc: true
 ---
