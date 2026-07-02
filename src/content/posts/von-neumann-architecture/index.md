@@ -12,6 +12,12 @@ coverImage:
 
 **冯·诺依曼结构（Von Neumann Architecture）**，也被称为**存储程序计算机模型**，是由美籍匈牙利科学家约翰·冯·诺依曼于1945年提出的。这一结构奠定了现代通用计算机的理论基础，直到今天，我们使用的智能手机、个人电脑和服务器，绝大多数依然沿用这一基本架构。
 
+为方便直观理解整体架构逻辑，可观看下方精讲视频，快速梳理核心知识点与运行机制：
+
+<div style="width: 100%; aspect-ratio: 16 / 9;">
+    <iframe style="width:100%; height: 100%;" src="https://www.youtube.com/embed/ZXi0DYOQ1C0" title="冯・诺依曼架构，理解现代计算机背后的核心设计" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## 核心设计思想
 
 冯·诺依曼结构最核心的突破在于“存储程序”思想，其主要包含以下几个关键点：
