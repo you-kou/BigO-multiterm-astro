@@ -1,6 +1,6 @@
 ---
-title: '穷举搜索'
-published: 1950-03
+title: '穷举'
+published: 1936-11-30 00:00:01
 draft: false
 tags: ['算法设计', '查找问题', '最值问题', '满足下限的最小配对和', '部分和问题']
 toc: true
