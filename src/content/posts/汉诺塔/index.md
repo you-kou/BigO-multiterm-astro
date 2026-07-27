@@ -1,5 +1,5 @@
 ---
-title: '汉诺塔'
+title: '汉诺塔问题'
 published: 1883-09
 draft: false
 tags: ['递归']
