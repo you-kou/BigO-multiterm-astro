@@ -22,7 +22,29 @@ coverImage:
 1. **终止条件（Base Case）：** 最小的、可以直接得出结果的已知情况（即“边界”）。如果没有终止条件，程序就会无限循环调用，最终导致**栈溢出（Stack Overflow）**。
 2. **递归步骤（Recursive Step）：** 将大问题拆解为结构相同、但规模更小的子问题，并调用自身。
 
-## 递归的两大经典数学模型
+## 递归通用代码模板
+
+写递归代码时，最忌讳“用大脑模拟复杂的调用栈”。只要掌握通用模板，按照逻辑填空即可：
+
+```c++
+ReturnType recursiveFunction(Parameters params) {
+    // 1. 终止条件 (Base Case)：防死循环、触底返回
+    if (isBaseCase(params)) {
+        return baseResult;
+    }
+    
+    // 2. 本层逻辑 (Current Level Logic)：处理当前层需要的计算或状态变化
+    // ...
+    
+    // 3. 递归调用 (Recursive Step)：下探到下一层（注意：必须缩小问题规模）
+    ReturnType subResult = recursiveFunction(smallerParams);
+    
+    // 4. 结果合并/清理 (Combine & Cleanup)：利用子问题结果构造当前层结果
+    return processResult(subResult);
+}
+```
+
+## 经典数学模型与实现
 
 ### 单分支递归 —— 阶乘计算
 
@@ -95,9 +117,7 @@ long long fibonacci(int n) {
 
 以计算 `fibonacci(5)` 为例，其递归调用树如下：
 
-Plaintext
-
-```
+```tex
                   fib(5)
                /          \
            fib(4)        fib(3)
