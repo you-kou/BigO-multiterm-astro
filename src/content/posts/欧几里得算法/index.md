@@ -3,7 +3,8 @@ title: '欧几里得算法'
 published: '0001-01-01'
 date: "公元前 300 年"
 draft: false
-tags: ['基础算法', '最大公约数', '递归']
+tags: ['最大公约数', '递归']
+series: '基础算法'
 toc: true
 coverImage:
   src: './euclidean-algorithm-cover.jpg'

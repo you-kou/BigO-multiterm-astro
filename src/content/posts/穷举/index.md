@@ -2,7 +2,8 @@
 title: '穷举'
 published: 1936-11-30 00:00:01
 draft: false
-tags: ['算法设计', '查找问题', '最值问题', '满足下限的最小配对和', '部分和问题']
+tags: ['查找问题', '最值问题', '满足下限的最小配对和', '部分和问题']
+series: '算法设计'
 toc: true
 coverImage:
   src: './brute_force_attack.webp'

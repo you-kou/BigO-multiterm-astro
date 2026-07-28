@@ -2,7 +2,8 @@
 title: '递归'
 published: 1936-11-30 00:00:02
 draft: false
-tags: ['算法设计', '阶乘', '斐波那契数列']
+tags: ['阶乘', '斐波那契数列']
+series: '算法设计'
 toc: true
 coverImage:
   src: './递归 - hero.webp'

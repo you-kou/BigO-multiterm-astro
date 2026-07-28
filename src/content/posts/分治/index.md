@@ -1,8 +1,9 @@
 ---
-title: '分治法'
+title: '分治'
 published: 1936-11-30 00:00:03
 draft: false
-tags: ['算法设计']
+tags: []
+series: '算法设计'
 toc: true
 coverImage:
   src: './Divide-and-Conquer-Approach-to-Quality-Assurance-banner.png'

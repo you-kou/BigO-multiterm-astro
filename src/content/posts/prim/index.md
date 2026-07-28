@@ -2,7 +2,8 @@
 title: 'Prim 算法'
 published: 1930
 draft: false
-tags: ['基础算法', '最小生成树']
+tags: ['最小生成树']
+series: '基础算法'
 toc: true
 coverImage:
   src: './Vojtech_Jarnik_Robert_Prim.jpg'
