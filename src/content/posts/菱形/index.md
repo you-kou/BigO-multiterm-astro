@@ -2,7 +2,7 @@
 title: '菱形'
 published: 2025-09-30
 draft: false
-tags: ['曼哈顿距离']
+tags: []
 toc: true
 ---
 
