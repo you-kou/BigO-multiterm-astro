@@ -2,7 +2,7 @@
 title: '小木棍'
 published: 2024-10-19
 draft: false
-tags: ['贪心思想']
+tags: ['贪心']
 toc: true
 ---
 
@@ -128,7 +128,7 @@ toc: true
 - $n = 12 \implies 28$
 - $n = 13 \implies 68$
 
-## 代码实现 (C++)
+## 参考代码 (C++)
 
 ```c++
 #include <iostream>
