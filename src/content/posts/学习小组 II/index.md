@@ -2,7 +2,7 @@
 title: '学习小组 II'
 published: 2025-12
 draft: false
-tags: ['算法题', '贪心思想', '动态规划']
+tags: ['贪心', '动态规划']
 toc: true
 ---
 
