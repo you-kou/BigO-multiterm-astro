@@ -2,7 +2,7 @@
 title: '线网建设'
 published: 2026-06-29
 draft: false
-tags: ['算法题', '最小生成树', 'Prim 算法']
+tags: ['最小生成树', 'Prim 算法']
 toc: true
 ---
 
