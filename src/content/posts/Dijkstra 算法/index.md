@@ -1,9 +1,9 @@
 ---
-title: '迪杰斯特拉算法'
+title: 'Dijkstra 算法'
 published: 1959-12
 draft: false
 series: '基础算法'
-tags: ['图论', '贪心', '单源最短路径']
+tags: ['图', '贪心']
 toc: true
 coverImage:
   src: './Edsger_Wybe_Dijkstra.png'

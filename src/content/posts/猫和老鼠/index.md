@@ -2,7 +2,7 @@
 title: '猫和老鼠'
 published: 2025-12-29
 draft: false
-tags: ['迪杰斯特拉算法']
+tags: ['Dijkstra 算法']
 toc: true
 ---
 

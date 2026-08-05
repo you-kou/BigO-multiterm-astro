@@ -2,7 +2,7 @@
 title: '折磨'
 published: 2026-08-01 14:00
 draft: false
-tags: ['迪杰斯特拉算法']
+tags: ['Dijkstra 算法']
 toc: true
 ---
 
