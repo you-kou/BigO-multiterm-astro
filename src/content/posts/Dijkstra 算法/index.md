@@ -2,7 +2,7 @@
 title: 'Dijkstra 算法'
 published: 1959-12
 draft: false
-series: '基础算法'
+series: '最短路径问题'
 tags: ['图', '贪心']
 toc: true
 coverImage:
